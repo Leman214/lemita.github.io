@@ -1,0 +1,15 @@
+.main-box {
+	position: absolute;
+	border: 4px groove red;
+	top: 196px;
+	width: 1920px;
+	height: 700px;
+	left: -4px;
+}
+
+.copyr {
+	position: absolute;
+	color: white;
+	top: 906px;
+	left: 756px;
+}

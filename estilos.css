@@ -1,0 +1,171 @@
+* {
+	font-family: STIX Two Math;
+	background: black;
+}
+
+
+.principal-box {
+	
+	position: absolute;
+	background: black;
+	border: 4px inset red;
+	width: 1920px;
+	height: 200px;
+
+}
+
+
+
+ .title {
+	position: absolute;
+	border: 4px groove red;
+	color: white;
+	width: 290px;
+	font-size: 30px;
+	height: 40px;
+	top: -50px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+}
+
+
+.boton1 {
+	position: absolute;
+	text-align: center;
+	border: 4px groove red;
+	color: white;
+	top: 145px;
+	left: 300px;
+	height: 39px;
+	font-size: 25px;
+	padding: 5px;
+}
+
+.boton2 {
+	position: absolute;
+	text-align: center;
+	border: 4px groove red;
+	color: white;
+	top: 145px;
+	left: 915px;
+	height: 39px;
+	font-size: 25px;
+	padding: 5px;
+}
+
+.boton3 {
+	position: absolute;
+	text-align: center;
+	border: 4px groove red;
+	color: white;
+	top: 145px;
+	left: 1500px;
+	height: 39px;
+	font-size: 25px;
+	padding: 5px;
+}
+
+.left {
+	position: absolute;
+	border: 4px groove red;
+	width: 960px;
+	height: 700px;
+	top: 200px;
+
+}
+
+.img1{
+	float:  right;
+	width: 300px;
+	padding: 10px;
+	border: 2px inset darkred;
+	box-shadow: 2px 2px 15px 0 red;
+}
+
+.presentacion {
+	position: absolute;
+	border: 4px groove red;
+	width: 50%;
+	color: white;
+	top: 30px;
+	left: 30px;
+	padding: 25px;
+	box-shadow: 2px 4px 15px 0 red;
+}
+
+.right {
+	position: absolute;
+	border: 4px groove red;
+	height: 700px;
+	width: 960px;
+	top: 200px;
+	left: 960px;
+}
+
+.gif1 {
+	position: absolute;
+	left: 600px;
+	top: 65px;
+	border: 2px groove darkred;
+	box-shadow: 2px 4px 15px 0 darkred;
+}
+
+.gif2 {
+	position: absolute;
+	border: 4px ridge darkred;
+	box-shadow: 2px 4px 15px 0 darkred;
+	top: 380px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	height: 270px
+
+}
+
+.rengarsito {
+	position: relative;
+	padding: 10px;
+	border: 2px groove darkred;
+	box-shadow: 4px 2px 15px 4px darkred;
+	margin: 25px;
+	left: 200px;
+	top: 5px;
+
+}
+
+.content {
+	color: white;
+	position: absolute;
+	border: 4px groove red;
+	width: 800px;
+	height: 300px;
+	top: -300px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	padding-left: 10px;
+	box-shadow: 4px 8px 15px 0 red;
+}
+
+.rengargif {
+	position: absolute;
+	left: 300px;
+	top: 410px;
+	height: 250px;
+	border: 4px groove darkred;
+	box-shadow: 2px 4px 15px 0 darkred;
+}
+
+
+.copy {
+	position: absolute;
+	color: white;
+	top: 910px;
+	left: 760px;
+}
+
+
